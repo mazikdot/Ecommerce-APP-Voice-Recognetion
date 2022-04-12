@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Bag",
+    "category": "ของใช้กระเป๋า NIKE",
+    "priceCents": 1600,
+    "imageColor": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3af6c211-3853-4f6f-b534-ca5cda4ea89d/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%9E%E0%B8%B2%E0%B8%94%E0%B8%A5%E0%B8%B3%E0%B8%95%E0%B8%B1%E0%B8%A7-heritage-4-%E0%B8%A5-H57GpC.png",
+    "description": "กระเป๋าทนทานใช้งานได้ระยะยาว"
+  },
+  {
+    "id": 2,
+    "name": "Shirt",
+    "category": "เสื้อเชิ้ต",
+    "priceCents": 990,
+    "imageColor": "https://cdn.shopify.com/s/files/1/0439/3192/6691/products/template-new-gq-white_black-Edit-06.jpg?v=1624466016",
+    "description": "เสื้อเชิ้ตสีดำเหมาะสำหรับผู้ชาย"
+  },
+  {
+    "id": 3,
+    "name": "Pants",
+    "category": "กางเกง",
+    "priceCents": 590,
+    "imageColor": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/435830/item/goods_34_435830.jpg?width=1008&impolicy=quality_75",
+    "description": "กางเกงสีเนื้อได้ทั้งหญิงได้ทั้งชาย"
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "category": "นาฬิกา",
+    "priceCents": 1800,
+    "imageColor": "https://image.makewebeasy.net/makeweb/0/xxNrjRVJP/DefaultData/283091.jpg",
+    "description": "นาฬิกาข้อมือ พร้อมโหมดการออกกำลังกายต่าง ๆ มากมาย"
+  },
+  {
+    "id": 5,
+    "name": "Shoe",
+    "category": "รองเท้า",
+    "priceCents": 1600,
+    "imageColor": "https://s3-ap-southeast-1.amazonaws.com/pcms.production.mcshop/catalog/product/_/s/_sneaker_m09z007_1.jpg",
+    "description": "สวมใส่สบาย เข้ากับทุก Life Style"
+  },
+  {
+    "id": 6,
+    "name": "Socks",
+    "category": "ถุงเท้า",
+    "priceCents": 25,
+    "imageColor": "https://dinobigmart.com/wp-content/uploads/2019/03/SD-103.jpg",
+    "description": "ถุงเท้านักเรียน ขาวดำ "
+  },
+  {
+    "id": 7,
+    "name": "Phone",
+    "category": "โทรศัพท์",
+    "priceCents": 30000,
+    "imageColor": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433",
+    "description": "โทรศัพท์ IPHONE 13 "
+  },
+  {
+    "id": 8,
+    "name": "Table",
+    "category": "โต๊ะ",
+    "priceCents": 900,
+    "imageColor": "https://media.boonthavorn.com/media/catalog/product/_/p/_product_image_1136034_1136034_1_2441.jpg?auto=webp&format=pjpg&width=1200",
+    "description": "โต๊ะวางของ โต๊ะตั้งคอม แข็งแรง ทนทาน"
+  }
+]
